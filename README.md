@@ -8,7 +8,7 @@ First, download the plugin into your WordPress Plugin Directory:
 ```bash
 cd [your-wordpress-root]
 cd wp-content/plugins/
-git clone https://github.com/jfwiebe/pretix-wp-plugin.git
+git clone https://github.com/digitalpiloten/pretix-wp-plugin.git
 ```
 Second, enable the `Wordpress Pretix Integration` plugin, which can now be found in your WordPress Admin Panel. Now, under "Settings -> Pretix Settings", set up the URLs of your pretix installation:
 + **CSS File Link** is the link to the CSS file, e.g. `https://pretixdemo.com/demo/democon/widget/v1.css`
